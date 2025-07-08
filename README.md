@@ -6,9 +6,25 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+About this project :
+📚 My Library – Personal Book Collection Manager
+
+My Library is a web application built with Laravel that allows users to manage their personal book collections with ease. It offers an intuitive, responsive interface where users can:
+
+    📥 Add new books with title, author, reading status, and cover image.
+
+    🔄 Edit or delete existing books anytime.
+
+    🔍 Search and filter books by title, author, or reading status (Currently Reading, Read, Want to Read).
+
+    👤 Register, log in, and log out securely with authentication and middleware protection.
+
+    🖼️ Automatically use a default cover if no image is provided.
+
+The project emphasizes usability and clean UI, while providing essential CRUD functionality and real-time interaction (like confirmation modals and live filtering).
+
 
 ## About Laravel
-
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
